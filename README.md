@@ -17,7 +17,7 @@ SANS Holiday Hack Challenge 2017
     7.  [Elf Machine Interfaces (EMI)](#elf-machine-interfaces)
     8.  [North Pole Elf Database](#north-pole-elf-database)
     9.  [Villain](#villian)
-    10. [Game](#game)
+    10. [Game](#the-game)
     11. [Conclusion](#conclusion)
 
 ### Description
