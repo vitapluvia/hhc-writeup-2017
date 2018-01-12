@@ -1,0 +1,15 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cookie-please.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vita Pluvia <vitapluvia@gmail.com> (https://github.com/vitapluvia)",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.0.2"
+  }
+}
